@@ -15,7 +15,7 @@ checker for the elaborated system. It contains:
 * all example programs of the paper, e.g. `foldMaybe`, `map`, `quicksort` and
   capture-avoiding substitution `subst` for lambda terms.
 
-Archived version: **TODO Zenodo DOI**.
+Archived version: **https://doi.org/10.5281/zenodo.23241090**.
 Browsable HTML version (the links in the paper point here):
 <https://maxdore.github.io/popldltt/html/DLTT.Everything.html>.
 The archive also contains the same rendering under `html/`.
